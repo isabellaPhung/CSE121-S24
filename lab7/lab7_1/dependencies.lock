@@ -1,0 +1,15 @@
+dependencies:
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.3.0
+  protocol_examples_common:
+    component_hash: null
+    source:
+      path: /home/itphung/esp/esp-idf/examples/common_components/protocol_examples_common
+      type: local
+    version: '*'
+manifest_hash: dbfb2938ce7c6efa08e4f16b0e8a14dfe467951776a18bd0d7124a55a424b94d
+target: esp32c3
+version: 1.0.0
